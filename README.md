@@ -1,2 +1,2 @@
-# Hello_World
-The First repository
+# Hello_world
+The_First_repository
